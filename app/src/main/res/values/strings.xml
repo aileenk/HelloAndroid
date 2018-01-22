@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="TypographyDashes">
+    xmlns:tools:ignore="TypographyDashes"
+    <string name="app_name">HelloAndroid</string>
+    <string name="address">2465 Latham St \nMountain View, CA 94043</string>
+    <string name="udacity">Udacity Logo</string>
+    <string name="website">www.udacity.com</string>
+    <string name="phone">650-555-5555</string>
+    <string name="imagine">Imagine Your Future</string>
+    <string name="tablet">Tablet Art</string>
+</resources>
