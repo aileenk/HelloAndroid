@@ -6,8 +6,8 @@
 
    <ImageView
        android:id="@+id/logo"
-       android:layout_width="228dp"
-       android:layout_height="152dp"
+       android:layout_width="@dimen/logo_width"
+       android:layout_height="@dimen/logo_height"
        android:src="@drawable/udacity_logo_sideways"
        android:contentDescription="@string/udacity"/>
 
