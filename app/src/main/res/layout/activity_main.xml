@@ -14,7 +14,7 @@
 
     <TextView
         android:id="@+id/address"
-        android:layout_width="fill_parent"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_toRightOf="@id/logo"
         android:layout_toEndOf="@id/logo"
@@ -25,7 +25,7 @@
 
     <TextView
         android:id="@+id/phone"
-        android:layout_width="fill_parent"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_toRightOf="@id/logo"
         android:layout_toEndOf="@id/logo"
@@ -47,8 +47,8 @@
 
     <ImageView
         android:id="@+id/tabletart"
-        android:layout_width="fill_parent"
-        android:layout_height="fill_parent"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
         android:layout_below="@id/logo"
         android:scaleType="fitXY"
         android:src="@drawable/imagine"
